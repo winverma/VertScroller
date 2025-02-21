@@ -1,1 +1,1 @@
-## Vertical Image Slider
+Casual projects built earlier!
